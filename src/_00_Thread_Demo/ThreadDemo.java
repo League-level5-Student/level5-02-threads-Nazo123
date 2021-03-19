@@ -28,6 +28,7 @@ public class ThreadDemo {
 			r1.start();
 			r2.start();
 			r3.start();
+			r1.start();
 			
 	}
 }
